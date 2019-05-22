@@ -17,7 +17,7 @@ The Meniga mobile sdk for Objective-C provides a convenient way to interact with
 
     s.ios.deployment_target = '8.0'
 
-    s.source_files      = 'Meniga/Meniga-ios-sdk/**/*'
+   # s.source_files      = 'Meniga/Meniga-ios-sdk/**/*'
 
     s.requires_arc      = true
 
